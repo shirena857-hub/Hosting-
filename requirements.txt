@@ -16,4 +16,8 @@ urllib3
 protobuf-decoder
 pytz
 aiohttp
-cfonts          
+cfonts 
+psutil
+aiosqlite
+aiogram
+aiohttp
